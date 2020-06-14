@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/krishna/mm'
+let g:netrw_dirhist_9='/etc/X11/xinit'
+let g:netrw_dirhist_8='/etc/X11/xorg.conf.d'
+let g:netrw_dirhist_7='rules.d'
+let g:netrw_dirhist_6='/home/krishna/.vim/autoload/tmuxline.vim/autoload/tmuxline'
+let g:netrw_dirhist_5='/home/krishna'
+let g:netrw_dirhist_4='/home/krishna/.config'
+let g:netrw_dirhist_3='/home/krishna/.config/fontconfig'
+let g:netrw_dirhist_2='/home/krishna/.config/fontconfig/conf.d'
+let g:netrw_dirhist_1='/home/krishna/.config/herbstluftwm/sxhkd'
